@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @A.siddiqui-coder-Github-Account
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I’m A.Siddiqui 👋 
+ 
 
-<!---
-WA-code-Github-Account/WA-code-Github-Account is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in IT, Artificial Intelligence, and Web 3.0.  
+- 🌱 I’m currently learning and teaching AI, Web 3.0, and Metaverse Development under the Government of Sindh program.  
+- 🤝 I’m looking to collaborate on innovative AI and Web 3.0 projects.  
+- 📫 How to reach me: [Email](mailto:wahishaikh545@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aziza-siddiqui) | Call: 03003337552  
+- 👩‍🏫 I have over 5 years of teaching experience, including O-Level and A-Level computer science.  
+- 🌍 Based in Karachi, Pakistan.  
+- ⚡ Fun fact: I’m passionate about creating a future driven by technology and empowering students to achieve their best potential in IT and AI.  
+
+---
+
+This repository is special because it reflects my journey in tech and teaching, blending education and innovation. 🚀  
+
