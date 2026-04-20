@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Agent Builder | Full Stack Developer | Educator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&lines=AI+Agent+Developer;Full+Stack+Engineer;10%2B+Years+Educator;Building+Smart+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&size=24&lines=Aziza+Siddiqui;AI+Agent+Builder;Full+Stack+Developer;10%2B+Years+Educator;Building+Smart+AI+Systems" />
 </p>
 
 ---
@@ -48,6 +48,9 @@ I specialize in building **AI-powered applications and intelligent agents** that
 
 - 📧 Email: wahishaikh545@gmail.com  
 - 💻 GitHub: https://github.com/WA-code-Github-Account  
+- 💼 LinkedIn: https://www.linkedin.com/in/aziza-siddiqui-37942130  
+- 📘 Facebook: https://www.facebook.com/wahi.shaikh.1  
+- 📱 Phone / WhatsApp: +923003337552  
 
 ---
 
