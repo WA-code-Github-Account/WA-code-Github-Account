@@ -1,39 +1,43 @@
-<h1 align="center"> Hi 👋, I'm Aziza (Wahi) Siddiqui</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&size=26&lines=Hi%2C+I'm+Aziza+(Wahi)+Siddiqui;AI+Agent+Builder;Full+Stack+Developer;10%2B+Years+Educator;Building+Smart+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&size=28&lines=Welcome+to+My+GitHub+Profile;Hi+I+am+Aziza+Wahi+Siddiqui;AI+Agent+Developer;Full+Stack+Developer;10%2B+Years+Educator;Building+Smart+AI+Systems" />
 </p>
 
-<h3 align="center">🚀 AI Agent Builder | Full Stack Developer | Educator</h3>
+<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
+
+<h3 align="center">💻 Full Stack Developer | 🤖 AI Agent Developer | 👩‍🏫 Educator</h3>
 
 ---
 
 ## 🧠 About Me
 
-I am an **Educator turned Full Stack & AI Developer** with **10+ years of teaching experience**.  
-I specialize in building **AI-powered applications and intelligent agents** that automate real-world tasks.
+I'm **Aziza (Wahi) Siddiqui** — an experienced **Educator turned AI Developer** with **10+ years of teaching experience** ⚡  
 
-🎓 Trained under **GIAIC (Governor’s Initiative for AI & Computing)**  
-💻 Built **15+ deployed projects**  
-🏆 Participated in **multiple hackathons**  
-📘 Created a **Digital Book on Humanoid Robotics**
+I build **intelligent AI systems, automation tools, and modern web applications** that solve real-world problems.
+
+💡 Whether it's:
+- 🤖 Building AI chatbots & AI Agents  
+- 🌐 Developing modern web apps (React / Next.js)  
+- 📊 Creating automation tools & dashboards  
+- 🧠 Working with LLMs (OpenAI, Claude, etc.)  
+
+🎯 **My mission:** Build smart systems that automate work and empower people with AI  
+
+---
+
+## 💼 What I Do
+
+💻 Frontend: React.js, Next.js, Tailwind CSS  
+⚙️ Backend: Node.js, Python, APIs  
+🤖 AI/Automation: AI Agents, Streamlit, LLMs  
+🧩 Tools: GitHub, Vercel, VS Code  
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,python,nodejs,html,css,mongodb,postgres,aws" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,python,nodejs,html,css,mongodb" />
 </p>
-
----
-
-## 🤖 Current Focus
-
-- AI Agents & Automation  
-- Multi-Agent Systems  
-- Real-world Task Execution Bots  
-- Streamlit AI Apps  
 
 ---
 
@@ -43,9 +47,31 @@ I specialize in building **AI-powered applications and intelligent agents** that
   <img src="https://github-readme-stats.vercel.app/api?username=WA-code-Github-Account&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WA-code-Github-Account&theme=tokyonight" />
+</p>
+
 ---
 
-## 🌐 Connect with Me
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏗️ Built multiple real-world projects  
+🎓 Learning AI & Web 3.0 at GIAIC  
+🚀 Created AI chatbot projects  
+🤝 Participated in learning communities  
+🧠 Passionate about AI & innovation  
+
+---
+
+## 🌐 Connect With Me
 
 - 📧 Email: wahishaikh545@gmail.com  
 - 💻 GitHub: https://github.com/WA-code-Github-Account  
@@ -55,6 +81,6 @@ I specialize in building **AI-powered applications and intelligent agents** that
 
 ---
 
-## ⚡ Vision
-
-Building intelligent systems that work like **digital employees** and help people automate their daily tasks 🚀
+<p align="center">
+  ⭐️ From Aziza Siddiqui — Building the Future with AI 🚀
+</p>
