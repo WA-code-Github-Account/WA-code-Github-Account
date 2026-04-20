@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aziza Siddiqui</h1>
-<h3 align="center">🚀 AI Agent Builder | Full Stack Developer | Educator</h3>
+<h1 align="center">Hi 👋, I'm Aziza (Wahi) Siddiqui</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&size=24&lines=Aziza+Siddiqui;AI+Agent+Builder;Full+Stack+Developer;10%2B+Years+Educator;Building+Smart+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&size=26&lines=Hi%2C+I'm+Aziza+(Wahi)+Siddiqui;AI+Agent+Builder;Full+Stack+Developer;10%2B+Years+Educator;Building+Smart+AI+Systems" />
 </p>
+
+<h3 align="center">🚀 AI Agent Builder | Full Stack Developer | Educator</h3>
 
 ---
 
