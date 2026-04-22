@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&size=28&lines=Welcome+to+My+GitHub+Profile;I+am+Aziza+Wahi+Siddiqui;AI+Agent+Developer;Full+Stack+Developer;10%2B+Years+Educator;Building+Smart+AI+Systems" />
 </p>
 
-<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
+<h1 align="center">🚀+ Welcome to My GitHub Profile</h1>
 
 <h3 align="center">💻 Full Stack Developer | 🤖 AI Agent Developer | 👩‍🏫 Educator</h3>
 
